@@ -31,10 +31,10 @@ export function EndScreen({ result, onRetry, onRestart }: EndScreenProps) {
 
   if (won && correct >= 12) {
     // ...
-    bgMusic = "/audio/chapter3.mp3"
+    bgMusic = "/audio/chapter5.mp3"
   } else if (won) {
     // ...
-    bgMusic = "/audio/chapter5.mp3"
+    bgMusic = "/audio/chapter3.mp3"
   }
   let endImage = "/images/War1.jpg"
 
