@@ -88,7 +88,7 @@ export function HistoryNewspaperModal({ open, onContinue }: { open: boolean, onC
                   -- Kíp Biên Soạn & Thiết Kế --
                 </p>
                 <p className="mt-1 font-serif text-xs italic text-[#4a3b32]">
-                  Nội dung: [Lan Ngọc, Minh Huy, Hoài Như] • Ý tưởng Game: [Thanh Hiền, Quang Minh] • Hình ảnh/Tư liệu: [Vân Anh, Phúc Quý]
+                  Nội dung: [Lan Ngọc, Minh Huy, Hoài Như,Hoàng Phương] • Ý tưởng Game: [Thanh Hiền, Quang Minh] • Hình ảnh/Tư liệu: [Vân Anh, Phúc Quý]
                 </p>
               </div>
             </motion.div>
